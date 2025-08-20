@@ -1,6 +1,6 @@
 {
   "name": "locklens",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "Audit npm, Yarn, and pnpm lockFiles as both an MCP server and a CLI tool.",
   "main": "src/index.ts",
   "scripts": {
